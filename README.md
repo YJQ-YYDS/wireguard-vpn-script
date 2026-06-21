@@ -45,8 +45,8 @@
 ```bash
 # 下载脚本
 curl -O https://raw.githubusercontent.com/YJQ-YYDS/wireguard-vpn-script/main/wg_server_setup.sh
-curl -O https://raw.githubusercontent.com/YJQ-YYDS/wireguard-vpn-script/main/main/wg_client_add.sh
-curl -O https://raw.githubusercontent.com/YJQ-YYDS/wireguard-vpn-script/main/main/wg_uninstall.sh
+curl -O https://raw.githubusercontent.com/YJQ-YYDS/wireguard-vpn-script/main/wg_client_add.sh
+curl -O https://raw.githubusercontent.com/YJQ-YYDS/wireguard-vpn-script/main/wg_uninstall.sh
 
 # 赋予执行权限
 chmod +x *.sh
