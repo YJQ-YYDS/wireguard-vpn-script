@@ -43,7 +43,7 @@
 您可以在服务器上通过以下命令一键下载所有脚本并赋予执行权限：
 
 ```bash
-# 下载脚本（请将 YOUR_USERNAME 和 YOUR_REPO 替换为实际值）
+# 下载脚本
 curl -O https://raw.githubusercontent.com/YJQ-YYDS/wireguard-vpn-script/main/wg_server_setup.sh
 curl -O https://raw.githubusercontent.com/YJQ-YYDS/wireguard-vpn-script/main/main/wg_client_add.sh
 curl -O https://raw.githubusercontent.com/YJQ-YYDS/wireguard-vpn-script/main/main/wg_uninstall.sh
